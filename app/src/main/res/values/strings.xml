@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MovieRater</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter the title of the movie</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter a short description of the movie</string>
+    <string name="language">Language</string>
+    <string name="rbtn1_text">English</string>
+    <string name="rbtn2_text">Chinese</string>
+    <string name="rbtn3_text">Malay</string>
+    <string name="rbtn4_text">Tamil</string>
+    <string name="releasedate">Release date</string>
+    <string name="enter_releasedate">Enter release date</string>
+    <string name="chkBox1_text">Not suitable for all audiences</string>
+    <string name="chkBox2_text">Violence</string>
+    <string name="chkBox3_text">Language Used</string>
+    <string name="button_text">Add movie</string>
+    <string name="button2_text">View Movie Details</string>
+    <string name="button3_text">Rate Movie</string>
+    <string name="movieTitle">Title:</string>
+    <string name="movieOverview">Overview:</string>
+    <string name="movieLanguage">Language:</string>
+    <string name="movieReleaseDate">Release date:</string>
+    <string name="movieSuitability">Suitable for ages below 13:</string>
+</resources>
